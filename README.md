@@ -22,4 +22,4 @@ JavaScript | Python | HTML/CSS | React | Node.js | Git | SQL
 🎯 Building a web app to gamify coding exercises and make learning fun!
 📝 Writing tech blogs to share insights and tips for learners and developers.
 🌟 Let's Learn Together:
-I'm thrilled to be part of this incredible coding community. If you're interested in learning coding from scratch, improving your skills, or just need some coding guidance, feel free to explore my repositories and join me on this enriching journey! Let's make coding accessible and enjoyable for everyone! 🤝
+I'm thrilled to be part of this incredible coding community. If you're interested in learning coding from scratch, improving your skills, or just need some coding guidance, feel free to explore my repositories and join me on this enriching journey! Let's make coding accessible and enjoyable for everyone! 🤝 new
